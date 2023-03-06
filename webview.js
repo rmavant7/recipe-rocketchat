@@ -44,4 +44,6 @@ module.exports = (Franz) => {
   setTimeout(() => {
     getTeamIcon();
   }, 4000);
-};
+  }
+  
+  
